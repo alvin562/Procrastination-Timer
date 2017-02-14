@@ -1,2 +1,4 @@
 # Procrastination-Timer
-chrome extension to monitor productivity
+A chrome extension to monitor productivity.
+
+
